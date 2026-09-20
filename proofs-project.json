@@ -1,0 +1,2103 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "cdshop-playerok",
+      "type": "entity",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "CDSHOPVST",
+        "entityType": "PlayerOK",
+        "shortDescription": "Один из двух исследуемых аккаунтов PlayerOK. Сопоставляется с CD SHOP на Авито по аватару и оформлению Splice.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>CDSHOPVST</h2><p>Один из двух исследуемых аккаунтов PlayerOK. Сопоставляется с CD SHOP на Авито по аватару и оформлению Splice.</p><h2>Текст источника</h2><h3>Слайд 1</h3><p>Доказательства принадлежности VSTSHOP и CDSHOPVST</p><p>одному владельцу</p><p>playerok.com/profile/CDSHOPVST</p><p>playerok.com/profile/VSTSHOP</p><h3>Слайд 2</h3><p>1. Доказательства связи PlayerOK/CDSHOPVST с магазинами с Авито, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><h3>Слайд 3</h3><p>1.1 Доказательства связи между Авито и PlayerOK/CDSHOPVST </p><p>Одинаковые аватарки, что видно на предыдущем слайде, практически одинаковый никнейм</p><p>Одинаковое оформление товаров Splice</p><table><tr><th><p><a href=\"https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CD SHOP на АвитоСсылка на товар (клик)</a></p></th><th><p><a href=\"https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CDSHOPVST на PlayerOKСсылка на товар (клик)</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 1",
+          "слайд 2",
+          "слайд 3"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 1, 2, 3. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "/proofs-source/image1.png",
+            "type": "image",
+            "title": "Слайд 1 · image1.png",
+            "value": "/proofs-source/image1.png"
+          },
+          {
+            "id": "/proofs-source/image2.png",
+            "type": "image",
+            "title": "Слайд 1 · image2.png",
+            "value": "/proofs-source/image2.png"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 1 · playerok.com/profile/CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 1 · playerok.com/profile/VSTSHOP",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 2 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 2 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 2 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 2 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 2 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 2 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 2 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov"
+          },
+          {
+            "id": "/proofs-source/image7.png",
+            "type": "image",
+            "title": "Слайд 3 · image7.png",
+            "value": "/proofs-source/image7.png"
+          },
+          {
+            "id": "/proofs-source/image8.png",
+            "type": "image",
+            "title": "Слайд 3 · image8.png",
+            "value": "/proofs-source/image8.png"
+          }
+        ],
+        "accentColor": "#65c3ba",
+        "cardCaption": "Аватар CD // SHOP VST\nКарточки Splice как на Авито",
+        "image": "/proofs-source/image5.png"
+      }
+    },
+    {
+      "id": "cdshop-avito",
+      "type": "entity",
+      "position": {
+        "x": 300,
+        "y": 0
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "CD SHOP",
+        "entityType": "Авито",
+        "shortDescription": "Авито: avito.ru/brands/i224188684. В презентации показаны совпадающие аватар и оформление Splice с CDSHOPVST.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>CD SHOP</h2><p>Авито: avito.ru/brands/i224188684. В презентации показаны совпадающие аватар и оформление Splice с CDSHOPVST.</p><h2>Текст источника</h2><h3>Слайд 2</h3><p>1. Доказательства связи PlayerOK/CDSHOPVST с магазинами с Авито, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><h3>Слайд 3</h3><p>1.1 Доказательства связи между Авито и PlayerOK/CDSHOPVST </p><p>Одинаковые аватарки, что видно на предыдущем слайде, практически одинаковый никнейм</p><p>Одинаковое оформление товаров Splice</p><table><tr><th><p><a href=\"https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CD SHOP на АвитоСсылка на товар (клик)</a></p></th><th><p><a href=\"https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CDSHOPVST на PlayerOKСсылка на товар (клик)</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 2",
+          "слайд 3"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 2, 3. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 2 · CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 2 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 2 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 2 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 2 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 2 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 2 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 2 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov"
+          },
+          {
+            "id": "/proofs-source/image7.png",
+            "type": "image",
+            "title": "Слайд 3 · image7.png",
+            "value": "/proofs-source/image7.png"
+          },
+          {
+            "id": "/proofs-source/image8.png",
+            "type": "image",
+            "title": "Слайд 3 · image8.png",
+            "value": "/proofs-source/image8.png"
+          }
+        ],
+        "accentColor": "#65c3ba",
+        "cardCaption": "Общий аватар и оформление\nСлайды 2–3",
+        "image": "/proofs-source/image3.png"
+      }
+    },
+    {
+      "id": "cdshop-ggsel",
+      "type": "entity",
+      "position": {
+        "x": 600,
+        "y": 0
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "VST_SHOP",
+        "entityType": "GGSel",
+        "shortDescription": "GGSel: идентификатор продавца 1345625. Совпадает с ID в ссылке магазина Plati.Market; на слайде 4 сопоставляется оформление товаров.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>VST_SHOP</h2><p>GGSel: идентификатор продавца 1345625. Совпадает с ID в ссылке магазина Plati.Market; на слайде 4 сопоставляется оформление товаров.</p><h2>Текст источника</h2><h3>Слайд 2</h3><p>1. Доказательства связи PlayerOK/CDSHOPVST с магазинами с Авито, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><h3>Слайд 4</h3><p>1.2 Доказательства связи Plati.Market + GGSel с PlayerOK/CDSHOPVST и Авито</p><p>Связь между Plati.Market + GGSel подтверждается не только общим ником, но и идентификатором 1345625 в ссылках на оба магазина – это идентификатор продавца на платформе DigiSeller.</p><p>Всё тот же общий логотип на фото товаров (что и на аватарках PlayerOK/CDSHOPVST и Авито. Ниже - один из множества примеров:</p><table><tr><th><p><a href=\"https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473\" target=\"_blank\" rel=\"noopener noreferrer\">Plati</a></p></th><th><p><a href=\"https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 2",
+          "слайд 4"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 2, 4. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 2 · CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 2 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 2 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 2 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 2 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 2 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 2 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 2 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473",
+            "type": "url",
+            "title": "Слайд 4 · Plati",
+            "value": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015",
+            "type": "url",
+            "title": "Слайд 4 · GGSel",
+            "value": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015"
+          },
+          {
+            "id": "/proofs-source/image9.png",
+            "type": "image",
+            "title": "Слайд 4 · image9.png",
+            "value": "/proofs-source/image9.png"
+          },
+          {
+            "id": "/proofs-source/image10.png",
+            "type": "image",
+            "title": "Слайд 4 · image10.png",
+            "value": "/proofs-source/image10.png"
+          }
+        ],
+        "accentColor": "#65c3ba",
+        "cardCaption": "Seller ID 1345625\nСовпадает с Plati.Market",
+        "image": "/proofs-source/image4.png"
+      }
+    },
+    {
+      "id": "cdshop-plati",
+      "type": "entity",
+      "position": {
+        "x": 900,
+        "y": 0
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "VST_SHOP",
+        "entityType": "Plati.Market",
+        "shortDescription": "Plati.Market: plati.market/seller/vst-shop/1345625/. Совпадающий ID продавца с GGSel; логотип сопоставлен с CDSHOPVST и Авито.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>VST_SHOP</h2><p>Plati.Market: plati.market/seller/vst-shop/1345625/. Совпадающий ID продавца с GGSel; логотип сопоставлен с CDSHOPVST и Авито.</p><h2>Текст источника</h2><h3>Слайд 2</h3><p>1. Доказательства связи PlayerOK/CDSHOPVST с магазинами с Авито, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><h3>Слайд 4</h3><p>1.2 Доказательства связи Plati.Market + GGSel с PlayerOK/CDSHOPVST и Авито</p><p>Связь между Plati.Market + GGSel подтверждается не только общим ником, но и идентификатором 1345625 в ссылках на оба магазина – это идентификатор продавца на платформе DigiSeller.</p><p>Всё тот же общий логотип на фото товаров (что и на аватарках PlayerOK/CDSHOPVST и Авито. Ниже - один из множества примеров:</p><table><tr><th><p><a href=\"https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473\" target=\"_blank\" rel=\"noopener noreferrer\">Plati</a></p></th><th><p><a href=\"https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 2",
+          "слайд 4"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 2, 4. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 2 · CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 2 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 2 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 2 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 2 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 2 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 2 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 2 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473",
+            "type": "url",
+            "title": "Слайд 4 · Plati",
+            "value": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015",
+            "type": "url",
+            "title": "Слайд 4 · GGSel",
+            "value": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015"
+          },
+          {
+            "id": "/proofs-source/image9.png",
+            "type": "image",
+            "title": "Слайд 4 · image9.png",
+            "value": "/proofs-source/image9.png"
+          },
+          {
+            "id": "/proofs-source/image10.png",
+            "type": "image",
+            "title": "Слайд 4 · image10.png",
+            "value": "/proofs-source/image10.png"
+          }
+        ],
+        "accentColor": "#65c3ba",
+        "cardCaption": "Seller ID 1345625\nОбщее оформление товаров",
+        "image": "/proofs-source/image6.png"
+      }
+    },
+    {
+      "id": "cdshop-group",
+      "type": "entity",
+      "position": {
+        "x": 300,
+        "y": 380
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "Группа CDSHOP",
+        "entityType": "Установленная группа",
+        "shortDescription": "Четыре магазина одного владельца: CDSHOPVST на PlayerOK, CD SHOP на Авито, VST_SHOP на GGSel и Plati.Market. Группа установлена в представленных материалах по аватарам, оформлению Splice и товаров, названиям и общему ID 1345625 у GGSel/Plati. Это основание дальнейшего сравнения с VSTSHOP, а не спорный вывод о двух аккаунтах PlayerOK.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>Группа CDSHOP</h2><p>Четыре магазина одного владельца: CDSHOPVST на PlayerOK, CD SHOP на Авито, VST_SHOP на GGSel и Plati.Market. Группа установлена в представленных материалах по аватарам, оформлению Splice и товаров, названиям и общему ID 1345625 у GGSel/Plati. Это основание дальнейшего сравнения с VSTSHOP, а не спорный вывод о двух аккаунтах PlayerOK.</p><h2>Текст источника</h2><h3>Слайд 3</h3><p>1.1 Доказательства связи между Авито и PlayerOK/CDSHOPVST </p><p>Одинаковые аватарки, что видно на предыдущем слайде, практически одинаковый никнейм</p><p>Одинаковое оформление товаров Splice</p><table><tr><th><p><a href=\"https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CD SHOP на АвитоСсылка на товар (клик)</a></p></th><th><p><a href=\"https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov\" target=\"_blank\" rel=\"noopener noreferrer\">Товар Splice у CDSHOPVST на PlayerOKСсылка на товар (клик)</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table><h3>Слайд 4</h3><p>1.2 Доказательства связи Plati.Market + GGSel с PlayerOK/CDSHOPVST и Авито</p><p>Связь между Plati.Market + GGSel подтверждается не только общим ником, но и идентификатором 1345625 в ссылках на оба магазина – это идентификатор продавца на платформе DigiSeller.</p><p>Всё тот же общий логотип на фото товаров (что и на аватарках PlayerOK/CDSHOPVST и Авито. Ниже - один из множества примеров:</p><table><tr><th><p><a href=\"https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473\" target=\"_blank\" rel=\"noopener noreferrer\">Plati</a></p></th><th><p><a href=\"https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table><h3>Слайд 5</h3><p>Вывод по главе 1</p><p>Исходя из главы 1 мы выяснили по ряду признаков, что магазины PlayerOK/CDSHOPVST, Авито, GGSel и Plati.Market принадлежат одному и тому же лицу. </p><p>В дальнейшем, дабы избежать путаницы, буду называть группу этих магазинов “группа CDSHOP”</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 3",
+          "слайд 4",
+          "слайд 5"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 3, 4, 5. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 3 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 3 · CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/splice_soundpodpiska_2_mesyatsa_7913336409?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiIyM2xwQzNFcmFNWm8xVmlVIjt9wXgceD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov",
+            "type": "url",
+            "title": "Слайд 3 · Ссылка на товар (клик)",
+            "value": "https://playerok.com/products/d7d6d30a4a13-splice-sounds-2-mesyaca-200-kreditsov"
+          },
+          {
+            "id": "/proofs-source/image7.png",
+            "type": "image",
+            "title": "Слайд 3 · image7.png",
+            "value": "/proofs-source/image7.png"
+          },
+          {
+            "id": "/proofs-source/image8.png",
+            "type": "image",
+            "title": "Слайд 3 · image8.png",
+            "value": "/proofs-source/image8.png"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 4 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 4 · ссылка",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473",
+            "type": "url",
+            "title": "Слайд 4 · Plati",
+            "value": "https://plati.market/itm/izotope-tonal-balance-control-2-fast-delivery/5186473"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015",
+            "type": "url",
+            "title": "Слайд 4 · GGSel",
+            "value": "https://ggsel.net/catalog/product/izotope-ozone-tonal-balance-control-2-5456015"
+          },
+          {
+            "id": "/proofs-source/image9.png",
+            "type": "image",
+            "title": "Слайд 4 · image9.png",
+            "value": "/proofs-source/image9.png"
+          },
+          {
+            "id": "/proofs-source/image10.png",
+            "type": "image",
+            "title": "Слайд 4 · image10.png",
+            "value": "/proofs-source/image10.png"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 5 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 5 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 5 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 5 · image6.png",
+            "value": "/proofs-source/image6.png"
+          }
+        ],
+        "accentColor": "#65c3ba",
+        "cardCaption": "4 магазина одного владельца\nАватары · Splice · ID 1345625"
+      }
+    },
+    {
+      "id": "vstshop-playerok",
+      "type": "entity",
+      "position": {
+        "x": 900,
+        "y": 380
+      },
+      "style": {
+        "width": 250,
+        "height": 210
+      },
+      "data": {
+        "title": "VSTSHOP",
+        "entityType": "PlayerOK",
+        "shortDescription": "Второй исследуемый аккаунт PlayerOK. Автор сопоставляет его с группой CDSHOP по пяти основаниям. Сам по себе профиль не устанавливает личность владельца.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>VSTSHOP</h2><p>Второй исследуемый аккаунт PlayerOK. Автор сопоставляет его с группой CDSHOP по пяти основаниям. Сам по себе профиль не устанавливает личность владельца.</p><h2>Текст источника</h2><h3>Слайд 1</h3><p>Доказательства принадлежности VSTSHOP и CDSHOPVST</p><p>одному владельцу</p><p>playerok.com/profile/CDSHOPVST</p><p>playerok.com/profile/VSTSHOP</p><h3>Слайд 6</h3><p>2. Доказательства того, что Playerok/VSTSHOPпринадлежит тому же лицу, что и “группа CDSHOP”</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><table><tr><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/VSTSHOP</a></p></th></tr></table><p>Группа CDSHOP</p><p>?</p><h3>Слайд 11</h3><p>2.4 Практически идентичные названия у магазинов Playerok/VSTSHOP, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/VSTSHOP</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th><th><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></th></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr></table><p>Да, безусловно можно посчитать, что этот аргумент “притянут за уши”, однако в совокупности с другими факторами, описанными мной, “похожесть” никнеймов отлично дополняет общую картину доказательств.</p><p>А то что на аватарке продавца Playerok/CDSHOPVST  и в названии его профиля также находится сочетание слов VST SHOP – очередной “гол в ворота” нарушителю</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 1",
+          "слайд 6",
+          "слайд 11"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 1, 6, 11. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "/proofs-source/image1.png",
+            "type": "image",
+            "title": "Слайд 1 · image1.png",
+            "value": "/proofs-source/image1.png"
+          },
+          {
+            "id": "/proofs-source/image2.png",
+            "type": "image",
+            "title": "Слайд 1 · image2.png",
+            "value": "/proofs-source/image2.png"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 1 · playerok.com/profile/CDSHOPVST",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 1 · playerok.com/profile/VSTSHOP",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 6 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 6 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 6 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 6 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 6 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 6 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 6 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "/proofs-source/image11.png",
+            "type": "image",
+            "title": "Слайд 6 · image11.png",
+            "value": "/proofs-source/image11.png"
+          },
+          {
+            "id": "/proofs-source/image16.png",
+            "type": "image",
+            "title": "Слайд 11 · image16.png",
+            "value": "/proofs-source/image16.png"
+          }
+        ],
+        "accentColor": "#f1b650",
+        "cardCaption": "Сравнивается с группой CDSHOP\n5 оснований · глава 2",
+        "image": "/proofs-source/image11.png"
+      }
+    },
+    {
+      "id": "proof-review",
+      "type": "entity",
+      "position": {
+        "x": 0,
+        "y": 800
+      },
+      "style": {
+        "width": 250,
+        "height": 230
+      },
+      "data": {
+        "title": "2.1 · Отзывы Splice",
+        "entityType": "Хронология",
+        "shortDescription": "03.09.2026: GERTSSSS оставляет отзыв VSTSHOP. 05.09.2026: VSTSHOP оставляет положительный отзыв CDSHOPVST о Splice. Год взят из текста слайда 7, на скриншотах указан день и месяц.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>2.1 · Отзывы Splice</h2><p>03.09.2026: GERTSSSS оставляет отзыв VSTSHOP. 05.09.2026: VSTSHOP оставляет положительный отзыв CDSHOPVST о Splice. Год взят из текста слайда 7, на скриншотах указан день и месяц.</p><h3>Наблюдение и интерпретация</h3><p>На скриншотах разные тарифы: 3 месяца / 300 кредитов за 400 ₽ и 2 месяца / 200 кредитов за 300 ₽. Поэтому это одна категория подписок, а не доказанно идентичный заказ.</p><p>Автор предполагает самопокупку для формирования рейтинга. Отзывы сами по себе не устанавливают фиктивность сделки или общего владельца.</p><h2>Текст источника</h2><h3>Слайд 7</h3><p>2.1 Фиктивная сделка между Playerok/CDSHOPVST и Playerok/VSTSHOP с целью накрутки отзыва </p><p>Продавец Playerok/VSTSHOP начал продавать подписки Splice на PlayerOK как минимум с 03.09.26, ведь именно в эту дату он получил первый отзыв по этой сделке от пользователя GERTSSSS.</p><p>Однако, 05.09.26, уже имея первые продажи в этой категории, он зачем то приобретает у своего “конкурента” Playerok/CDSHOPVST эту подписку, оставляя ему при этом положительный отзыв.</p><p>Выглядит это так, будто он купил товар у своего же второго аккаунта с целью формирования первоначального рейтинга.</p><p>Скриншоты на следующем слайде -&gt;</p><h3>Слайд 8</h3><p>Приложение к 2.1</p><table><tr><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение #1. Отзыв, датированный 03.09.26, оставленный покупателем GERTSSSS продавцу Playerok/VSTSHOP</a></p></th><th><p></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Приложение #2. Всё тот же Playerok/VSTSHOP оставляет отзыв конкуренту Playerok/CDSHOPVST на тот товар, который  сам же и продаёт</a></p></td><td><p></p></td></tr></table>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 7",
+          "слайд 8"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 7, 8. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 7 · Playerok",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 7 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://playerok.com/profile/GERTSSSS/products",
+            "type": "url",
+            "title": "Слайд 7 · GERTSSSS.",
+            "value": "https://playerok.com/profile/GERTSSSS/products"
+          },
+          {
+            "id": "/proofs-source/image12.png",
+            "type": "image",
+            "title": "Слайд 8 · image12.png",
+            "value": "/proofs-source/image12.png"
+          },
+          {
+            "id": "/proofs-source/image13.png",
+            "type": "image",
+            "title": "Слайд 8 · image13.png",
+            "value": "/proofs-source/image13.png"
+          }
+        ],
+        "accentColor": "#b6a0dc",
+        "cardCaption": "03.09: GERTSSSS → VSTSHOP\n05.09: VSTSHOP → CDSHOPVST",
+        "image": "/proofs-source/image13.png"
+      }
+    },
+    {
+      "id": "proof-assortment",
+      "type": "entity",
+      "position": {
+        "x": 300,
+        "y": 800
+      },
+      "style": {
+        "width": 250,
+        "height": 230
+      },
+      "data": {
+        "title": "2.2 · Ассортимент",
+        "entityType": "Сравнение 9 товаров",
+        "shortDescription": "Все 9 позиций VSTSHOP из таблицы представлены у Plati.Market; часть также у GGSel и Авито. Это совпадение ассортимента по материалам автора, не доказательство общего владельца.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>2.2 · Ассортимент</h2><p>Все 9 позиций VSTSHOP из таблицы представлены у Plati.Market; часть также у GGSel и Авито. Это совпадение ассортимента по материалам автора, не доказательство общего владельца.</p><h3>Как читать таблицу</h3><p>«+» — товар отмечен в презентации и снабжён ссылкой; «−» — не отмечен в таблице. Это не проверка текущего наличия. CDSHOPVST отдельной колонкой в исходной таблице не представлен.</p><h2>Текст источника</h2><h3>Слайд 9</h3><p>2.2 Одинаковый ассортимент продавца Playerok/VSTSHOP и “группы CDSHOP”</p><table><tr><th><p>Товар</p></th><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/VSTSHOP</a></p></th><th><p>Plati.Market</p></th><th><p>GGSel</p></th><th><p>Avito</p></th></tr><tr><td><p>Подписки Splice</p></td><td><p><a href=\"https://playerok.com/products/d3625c04944f-splice-sounds-300-kreditov----3-mesyaca-na-lyuboy-akkaunt\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/splice-subscription-fast-sounds-creator-1-3-months/5453366\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://ggsel.net/catalog/product/splice-sounds-creator-1-3-mesiaca-5456003\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://www.avito.ru/moskva/muzykalnye_instrumenty/splice_soundpodpiska_90_dney_seply_8201332352\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td></tr><tr><td><p>Sonnox VoxDoubler</p></td><td><p><a href=\"https://playerok.com/products/0b704b09cc76-sonnox-voxdoubler-ilok-key\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/sonnox-voxdoubler-ilok-key/5058204\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Native Instruments Massive</p></td><td><p><a href=\"https://playerok.com/products/f779bdcfcd7b-native-instruments-massive-oficialnyy-klyuch\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/native-instruments-massive-official-key/5058141\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>Relab LX480</p></td><td><p><a href=\"https://playerok.com/products/e31eeb5af05a-relab-lx480-essential\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/relab-lx480-essential-official-key/5058182\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://ggsel.net/catalog/product/relab-lx480-essential-oficialnyi-kliuc-5456039\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td></tr><tr><td><p>Air Bundle 20 плагинов</p></td><td><p><a href=\"https://playerok.com/products/f49802ceb958-air-bundle-20-plaginov-xpandl-2-klyuch-dlya-ilok\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/air-bundle-20-plaginov-xpandl-2-key-for-ilok/5073758\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p>-</p></td></tr><tr><td><p>FabFilter Total Bundle</p></td><td><p><a href=\"https://playerok.com/products/b3589918bad5-fabfilter-total-bundle-oficialnyy-klyuch\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/fabfilter-total-bundle-official-key/5079205\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p><a href=\"https://www.avito.ru/moskva/muzykalnye_instrumenty/fabfilter_pro-q4_total_bundle_litsenziya_8200960041?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td></tr><tr><td><p>T-rackS 5 SE</p></td><td><p><a href=\"https://playerok.com/products/2fd2f3695726-ik-multimedia-t-racks-5-se-oficialnyy-klyuch\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/ik-multimedia-t-racks-5-se-official-key/5058224\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p><a href=\"https://www.avito.ru/moskva/muzykalnye_instrumenty/t-racks_5_se_vstauaax_litsenziya_8233045508?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td></tr><tr><td><p>AUTO-TUNE DUO</p></td><td><p><a href=\"https://playerok.com/products/f149f5eb3494-auto-tune-duo-oficialnyy-klyuch\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/auto-tune-duo-official-key/5058132\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td><td><p><a href=\"https://www.avito.ru/moskva/muzykalnye_instrumenty/antares_duo_litsenziya_8233366653?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td></tr><tr><td><p>Melodyne 5 Essential</p></td><td><p><a href=\"https://playerok.com/products/6fd745d9b0c4-melodyne-5-essential-na-lyuboy-akkaunt\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://plati.market/itm/melodyne-5-essential-official-key/5058164\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p><a href=\"https://ggsel.net/catalog/product/melodyne-5-essential-oficialnyi-kliuc-5456053\" target=\"_blank\" rel=\"noopener noreferrer\">+</a></p></td><td><p>-</p></td></tr></table><p>Все плюсики кликабельны и ведут на объявления</p><p>Как вы можете убедиться – всё что есть в продаже у Playerok/VSTSHOP также есть в ассортименте “группы CDSHOP” как минимум на одной площадке, что сильно укрепляет позицию моих догадок из пункта 2.1</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 9"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 9. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 9 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://playerok.com/products/d3625c04944f-splice-sounds-300-kreditov----3-mesyaca-na-lyuboy-akkaunt",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/d3625c04944f-splice-sounds-300-kreditov----3-mesyaca-na-lyuboy-akkaunt"
+          },
+          {
+            "id": "https://plati.market/itm/splice-subscription-fast-sounds-creator-1-3-months/5453366",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/splice-subscription-fast-sounds-creator-1-3-months/5453366"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/splice-sounds-creator-1-3-mesiaca-5456003",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://ggsel.net/catalog/product/splice-sounds-creator-1-3-mesiaca-5456003"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/muzykalnye_instrumenty/splice_soundpodpiska_90_dney_seply_8201332352",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://www.avito.ru/moskva/muzykalnye_instrumenty/splice_soundpodpiska_90_dney_seply_8201332352"
+          },
+          {
+            "id": "https://playerok.com/products/0b704b09cc76-sonnox-voxdoubler-ilok-key",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/0b704b09cc76-sonnox-voxdoubler-ilok-key"
+          },
+          {
+            "id": "https://plati.market/itm/sonnox-voxdoubler-ilok-key/5058204",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/sonnox-voxdoubler-ilok-key/5058204"
+          },
+          {
+            "id": "https://playerok.com/products/f779bdcfcd7b-native-instruments-massive-oficialnyy-klyuch",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/f779bdcfcd7b-native-instruments-massive-oficialnyy-klyuch"
+          },
+          {
+            "id": "https://plati.market/itm/native-instruments-massive-official-key/5058141",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/native-instruments-massive-official-key/5058141"
+          },
+          {
+            "id": "https://playerok.com/products/e31eeb5af05a-relab-lx480-essential",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/e31eeb5af05a-relab-lx480-essential"
+          },
+          {
+            "id": "https://plati.market/itm/relab-lx480-essential-official-key/5058182",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/relab-lx480-essential-official-key/5058182"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/relab-lx480-essential-oficialnyi-kliuc-5456039",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://ggsel.net/catalog/product/relab-lx480-essential-oficialnyi-kliuc-5456039"
+          },
+          {
+            "id": "https://playerok.com/products/f49802ceb958-air-bundle-20-plaginov-xpandl-2-klyuch-dlya-ilok",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/f49802ceb958-air-bundle-20-plaginov-xpandl-2-klyuch-dlya-ilok"
+          },
+          {
+            "id": "https://plati.market/itm/air-bundle-20-plaginov-xpandl-2-key-for-ilok/5073758",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/air-bundle-20-plaginov-xpandl-2-key-for-ilok/5073758"
+          },
+          {
+            "id": "https://playerok.com/products/b3589918bad5-fabfilter-total-bundle-oficialnyy-klyuch",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/b3589918bad5-fabfilter-total-bundle-oficialnyy-klyuch"
+          },
+          {
+            "id": "https://plati.market/itm/fabfilter-total-bundle-official-key/5079205",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/fabfilter-total-bundle-official-key/5079205"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/muzykalnye_instrumenty/fabfilter_pro-q4_total_bundle_litsenziya_8200960041?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://www.avito.ru/moskva/muzykalnye_instrumenty/fabfilter_pro-q4_total_bundle_litsenziya_8200960041?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/2fd2f3695726-ik-multimedia-t-racks-5-se-oficialnyy-klyuch",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/2fd2f3695726-ik-multimedia-t-racks-5-se-oficialnyy-klyuch"
+          },
+          {
+            "id": "https://plati.market/itm/ik-multimedia-t-racks-5-se-official-key/5058224",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/ik-multimedia-t-racks-5-se-official-key/5058224"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/muzykalnye_instrumenty/t-racks_5_se_vstauaax_litsenziya_8233045508?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://www.avito.ru/moskva/muzykalnye_instrumenty/t-racks_5_se_vstauaax_litsenziya_8233045508?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/f149f5eb3494-auto-tune-duo-oficialnyy-klyuch",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/f149f5eb3494-auto-tune-duo-oficialnyy-klyuch"
+          },
+          {
+            "id": "https://plati.market/itm/auto-tune-duo-official-key/5058132",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/auto-tune-duo-official-key/5058132"
+          },
+          {
+            "id": "https://www.avito.ru/moskva/muzykalnye_instrumenty/antares_duo_litsenziya_8233366653?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://www.avito.ru/moskva/muzykalnye_instrumenty/antares_duo_litsenziya_8233366653?context=H4sIAAAAAAAA_wE_AMD_YToyOntzOjEzOiJsb2NhbFByaW9yaXR5IjtiOjA7czoxOiJ4IjtzOjE2OiJMaWs5Sm9jSDVwWEpGRHdiIjt9P-JtSD8AAAA"
+          },
+          {
+            "id": "https://playerok.com/products/6fd745d9b0c4-melodyne-5-essential-na-lyuboy-akkaunt",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://playerok.com/products/6fd745d9b0c4-melodyne-5-essential-na-lyuboy-akkaunt"
+          },
+          {
+            "id": "https://plati.market/itm/melodyne-5-essential-official-key/5058164",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://plati.market/itm/melodyne-5-essential-official-key/5058164"
+          },
+          {
+            "id": "https://ggsel.net/catalog/product/melodyne-5-essential-oficialnyi-kliuc-5456053",
+            "type": "url",
+            "title": "Слайд 9 · +",
+            "value": "https://ggsel.net/catalog/product/melodyne-5-essential-oficialnyi-kliuc-5456053"
+          }
+        ],
+        "accentColor": "#b6a0dc",
+        "cardCaption": "9 из 9 позиций есть на Plati\nВнутри: таблица и ссылки"
+      }
+    },
+    {
+      "id": "proof-copy",
+      "type": "entity",
+      "position": {
+        "x": 600,
+        "y": 800
+      },
+      "style": {
+        "width": 250,
+        "height": 230
+      },
+      "data": {
+        "title": "2.3 · Тексты и опечатка",
+        "entityType": "Карточки товаров",
+        "shortDescription": "В примере Air Bundle на Plati.Market и PlayerOK/VSTSHOP повторяется необычное написание XPANDL!2. Автор также заявляет совпадение описаний остальных товаров, кроме Splice.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>2.3 · Тексты и опечатка</h2><p>В примере Air Bundle на Plati.Market и PlayerOK/VSTSHOP повторяется необычное написание XPANDL!2. Автор также заявляет совпадение описаний остальных товаров, кроме Splice.</p><p>На слайде видны заголовки двух карточек. Утверждение о полном совпадении всех описаний — более широкое заявление автора; здесь оно отдельно не проверено.</p><h2>Текст источника</h2><h3>Слайд 10</h3><table><tr><th><p>Объявление на PlayerOK</p></th><th><p>Объявление на Plati</p></th></tr><tr><td><p></p></td><td><p></p></td></tr></table><p>2.3 Одинаковое текстовое оформление товаров у Plati.Market и Playerok/VSTSHOP</p><p>У продавца Playerok/VSTSHOP присутствует та же опечатка в названии товара Air Xpand!2, что и у продавца Plati.Market. В название товара по ошибке добавлена буква L.</p><p>Также идентично название и описание этих товаров (как и всех остальных)</p><p>У всех товаров продавца Playerok/VSTSHOP  (кроме подписок Splice) названия товаров и описания абсолютно идентичны названиям товаров и описаниям товаров продавца из “группы CDSHOP” - Plati.Market, что в очередной раз доказывает их взаимосвязь и принадлежность одному человеку/группе лиц.</p><p>Единственное отличие – на Плеерок добавились смайлики (на Плати смайлики в названиях товаров запрещены)</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 10"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 10. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 10 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 10 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "/proofs-source/image14.png",
+            "type": "image",
+            "title": "Слайд 10 · image14.png",
+            "value": "/proofs-source/image14.png"
+          },
+          {
+            "id": "/proofs-source/image15.png",
+            "type": "image",
+            "title": "Слайд 10 · image15.png",
+            "value": "/proofs-source/image15.png"
+          }
+        ],
+        "accentColor": "#b6a0dc",
+        "cardCaption": "XPANDL!2 в обеих карточках\nPlati ↔ PlayerOK/VSTSHOP",
+        "image": "/proofs-source/image15.png"
+      }
+    },
+    {
+      "id": "proof-names",
+      "type": "entity",
+      "position": {
+        "x": 900,
+        "y": 800
+      },
+      "style": {
+        "width": 250,
+        "height": 230
+      },
+      "data": {
+        "title": "2.4 · Названия",
+        "entityType": "Косвенное совпадение",
+        "shortDescription": "VSTSHOP на PlayerOK и VST_SHOP на GGSel/Plati.Market. Автор также отмечает VST в названии и логотипе CDSHOPVST.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>2.4 · Названия</h2><p>VSTSHOP на PlayerOK и VST_SHOP на GGSel/Plati.Market. Автор также отмечает VST в названии и логотипе CDSHOPVST.</p><p>Сходство названий само по себе не уникально и не устанавливает владельца.</p><h2>Текст источника</h2><h3>Слайд 11</h3><p>2.4 Практически идентичные названия у магазинов Playerok/VSTSHOP, GGSel и Plati.Market</p><table><tr><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/VSTSHOP</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th><th><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></th></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr></table><p>Да, безусловно можно посчитать, что этот аргумент “притянут за уши”, однако в совокупности с другими факторами, описанными мной, “похожесть” никнеймов отлично дополняет общую картину доказательств.</p><p>А то что на аватарке продавца Playerok/CDSHOPVST  и в названии его профиля также находится сочетание слов VST SHOP – очередной “гол в ворота” нарушителю</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 11"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 11. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 11 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 11 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 11 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image11.png",
+            "type": "image",
+            "title": "Слайд 11 · image11.png",
+            "value": "/proofs-source/image11.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 11 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 11 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "/proofs-source/image16.png",
+            "type": "image",
+            "title": "Слайд 11 · image16.png",
+            "value": "/proofs-source/image16.png"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 11 · Playerok",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          }
+        ],
+        "accentColor": "#b6a0dc",
+        "cardCaption": "VSTSHOP ↔ VST_SHOP\nПохожие имена и логотип",
+        "image": "/proofs-source/image4.png"
+      }
+    },
+    {
+      "id": "proof-timing",
+      "type": "entity",
+      "position": {
+        "x": 1200,
+        "y": 800
+      },
+      "style": {
+        "width": 250,
+        "height": 230
+      },
+      "data": {
+        "title": "2.5 · Старт и цены",
+        "entityType": "Наблюдение автора",
+        "shortDescription": "По наблюдению автора, объявления VSTSHOP и CDSHOPVST появились одновременно (±1 день), с одинаковыми ценами и сроками подписок, включая Sounds+ на 2 месяца. Точная дата и сравнительные скриншоты на слайде 12 не приведены.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>2.5 · Старт и цены</h2><p>По наблюдению автора, объявления VSTSHOP и CDSHOPVST появились одновременно (±1 день), с одинаковыми ценами и сроками подписок, включая Sounds+ на 2 месяца. Точная дата и сравнительные скриншоты на слайде 12 не приведены.</p><h2>Текст источника</h2><h3>Слайд 12</h3><p>2.5 Одинаковый/почти одинаковый день начала продаж в категории Splice</p><p>Хоть это и самый косвенный признак из перечисленных, но умолчать о нём не могу.</p><p>Я продаю подписки в категории Splice на PlayerOK уже более полугода – ещё до того момента как эта категория появилась.</p><p>За всю историю существования этой категории в ней торговали от силы 12 продавцов помимо меня (и это с учётом тех, которые перестали продавать). У всех был разный ассортимент, совершенно разные цены, они появлялись и пропадали из категории в разное время.</p><p>Однако объявления селлеров Playerok/VSTSHOP и Playerok/CDSHOPVST появились в один и тот же день (возможно с разницей в один день). </p><p>У них:</p><p>Одинаковый ассортимент подписок Splice (тип подписки, сроки). Например они оба продают Sounds+ на 2 месяца, хотя раньше никто на площадке именно такой срок Sounds+ не продавал</p><p>Одинаковые цены вплоть до рубля</p><p>Что также подтверждает мои тезисы из предыдущих пунктов</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 12"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 12. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 12 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 12 · Playerok",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          }
+        ],
+        "accentColor": "#b6a0dc",
+        "cardCaption": "Один день ±1 · одинаковые цены\nБез датированных скриншотов"
+      }
+    },
+    {
+      "id": "common-owner",
+      "type": "entity",
+      "position": {
+        "x": 600,
+        "y": 1270
+      },
+      "style": {
+        "width": 250,
+        "height": 220
+      },
+      "data": {
+        "title": "CDSHOPVST ↔ VSTSHOP",
+        "entityType": "Вывод о двух аккаунтах PlayerOK",
+        "shortDescription": "Проверяемый вывод относится именно к двум аккаунтам PlayerOK: CDSHOPVST (входит в установленную группу CDSHOP) и VSTSHOP. Автор считает, что VSTSHOP принадлежит тому же владельцу, и просит поддержку проверить эту связь и обстоятельства отзыва по внутренним данным площадки.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>CDSHOPVST ↔ VSTSHOP</h2><p>Проверяемый вывод относится именно к двум аккаунтам PlayerOK: CDSHOPVST (входит в установленную группу CDSHOP) и VSTSHOP. Автор считает, что VSTSHOP принадлежит тому же владельцу, и просит поддержку проверить эту связь и обстоятельства отзыва по внутренним данным площадки.</p><h3>Граница вывода</h3><p>Принадлежность четырёх магазинов группе CDSHOP — исходный установленный блок материалов. Отдельный вывод главы 2 — связь VSTSHOP с владельцем этой группы. Самопокупка и накрутка требуют проверки данных сделки поддержкой.</p><h2>Текст источника</h2><h3>Слайд 13</h3><p>Итог по главе 2</p><p>Магазин Playerok/VSTSHOP принадлежит “Группе CDSHOP”, в которую входит в том числе и Playerok/CDSHOPVST по следующим признакам:</p><p>Playerok/VSTSHOP оставлял Playerok/CDSHOPVST отзыв за покупку того товара, который на тот момент уже сам продавал (слайд 7)</p><p>Ассортимент Playerok/VSTSHOP полностью идентичен ассортименту “группы CDSHOP” (слайд 9)</p><p>Названия и описания всех товаров (кроме Splice) продавца Playerok/VSTSHOP полностью идентичны описаниям и названиям товаров “группы CDSHOP” (слайд 10)</p><p>Магазины “группы CDSHOP” похожи названием на название магазина Playerok/VSTSHOP </p><p>Playerok/VSTSHOP и Playerok/CDSHOPVST начали торговать в категории Splice (далеко не самая популярная категория) в один и тот же день: имеют одинаковый ассортимент типов и сроков подписок, абсолютно одинаковые цены на товары</p><h3>Слайд 14</h3><p>Согласны с доводами с прошлых слайдов?</p><p>Значит за всеми этими магазинами стоит один и тот же человек</p><table><tr><th><p><a href=\"https://avito.ru/brands/i224188684\" target=\"_blank\" rel=\"noopener noreferrer\">Авито</a></p></th><th><p><a href=\"https://ggsel.net/sellers/1345625\" target=\"_blank\" rel=\"noopener noreferrer\">GGSel</a></p></th></tr><tr><td><p><a href=\"https://playerok.com/profile/CDSHOPVST\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/CDSHOPVST</a></p></td><td><p><a href=\"https://plati.market/seller/vst-shop/1345625/\" target=\"_blank\" rel=\"noopener noreferrer\">Plati.Market</a></p></td></tr></table><table><tr><th><p><a href=\"https://playerok.com/profile/VSTSHOP\" target=\"_blank\" rel=\"noopener noreferrer\">Playerok/VSTSHOP</a></p></th></tr></table><p>Группа CDSHOP</p><p>?</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 13",
+          "слайд 14"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 13, 14. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "https://playerok.com/profile/VSTSHOP",
+            "type": "url",
+            "title": "Слайд 13 · Playerok",
+            "value": "https://playerok.com/profile/VSTSHOP"
+          },
+          {
+            "id": "https://playerok.com/profile/CDSHOPVST",
+            "type": "url",
+            "title": "Слайд 13 · Playerok",
+            "value": "https://playerok.com/profile/CDSHOPVST"
+          },
+          {
+            "id": "https://avito.ru/brands/i224188684",
+            "type": "url",
+            "title": "Слайд 14 · Авито",
+            "value": "https://avito.ru/brands/i224188684"
+          },
+          {
+            "id": "https://ggsel.net/sellers/1345625",
+            "type": "url",
+            "title": "Слайд 14 · GGSel",
+            "value": "https://ggsel.net/sellers/1345625"
+          },
+          {
+            "id": "https://plati.market/seller/vst-shop/1345625/",
+            "type": "url",
+            "title": "Слайд 14 · Plati.Market",
+            "value": "https://plati.market/seller/vst-shop/1345625/"
+          },
+          {
+            "id": "/proofs-source/image3.png",
+            "type": "image",
+            "title": "Слайд 14 · image3.png",
+            "value": "/proofs-source/image3.png"
+          },
+          {
+            "id": "/proofs-source/image4.png",
+            "type": "image",
+            "title": "Слайд 14 · image4.png",
+            "value": "/proofs-source/image4.png"
+          },
+          {
+            "id": "/proofs-source/image5.png",
+            "type": "image",
+            "title": "Слайд 14 · image5.png",
+            "value": "/proofs-source/image5.png"
+          },
+          {
+            "id": "/proofs-source/image6.png",
+            "type": "image",
+            "title": "Слайд 14 · image6.png",
+            "value": "/proofs-source/image6.png"
+          },
+          {
+            "id": "/proofs-source/image11.png",
+            "type": "image",
+            "title": "Слайд 14 · image11.png",
+            "value": "/proofs-source/image11.png"
+          }
+        ],
+        "accentColor": "#e98b79",
+        "cardCaption": "Два аккаунта именно на PlayerOK\nПроверка связи и обстоятельств отзыва"
+      }
+    },
+    {
+      "id": "rules",
+      "type": "entity",
+      "position": {
+        "x": 1100,
+        "y": 1270
+      },
+      "style": {
+        "width": 250,
+        "height": 220
+      },
+      "data": {
+        "title": "Правила PlayerOK",
+        "entityType": "Приложение · слайд 15",
+        "shortDescription": "В презентации приведены выдержки о фиктивных сделках, накрутке отзывов и нескольких профилях. Автор считает их нарушенными. Применимость, актуальность правил и факт нарушения здесь не проверялись.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>Правила PlayerOK</h2><p>В презентации приведены выдержки о фиктивных сделках, накрутке отзывов и нескольких профилях. Автор считает их нарушенными. Применимость, актуальность правил и факт нарушения здесь не проверялись.</p><h2>Текст источника</h2><h3>Слайд 15</h3><p>Что является нарушениями:</p><p>Условий продажи</p><p>Пользовательского соглашения</p>",
+        "tags": [
+          "пруфы.pptx",
+          "слайд 15"
+        ],
+        "evidence": [
+          {
+            "id": "Источник",
+            "type": "text",
+            "title": "Источник",
+            "value": "пруфы.pptx · слайды 15. Материалы презентации; внешняя проверка не проводилась."
+          },
+          {
+            "id": "/proofs-source/image17.png",
+            "type": "image",
+            "title": "Слайд 15 · image17.png",
+            "value": "/proofs-source/image17.png"
+          },
+          {
+            "id": "/proofs-source/image18.png",
+            "type": "image",
+            "title": "Слайд 15 · image18.png",
+            "value": "/proofs-source/image18.png"
+          },
+          {
+            "id": "/proofs-source/image19.png",
+            "type": "image",
+            "title": "Слайд 15 · image19.png",
+            "value": "/proofs-source/image19.png"
+          }
+        ],
+        "accentColor": "#8592a0",
+        "cardCaption": "3 выдержки из правил\nОценка нарушения — позиция автора"
+      }
+    },
+    {
+      "id": "source",
+      "type": "entity",
+      "position": {
+        "x": 0,
+        "y": 1270
+      },
+      "style": {
+        "width": 250,
+        "height": 220
+      },
+      "data": {
+        "title": "пруфы.pptx",
+        "entityType": "Источник · 15 слайдов",
+        "shortDescription": "Редактируемая карта аргументации по презентации. Читайте сверху вниз. Нажмите на узел или связь, чтобы открыть материалы. Бирюзовый — группа магазинов; фиолетовый — основания сравнения; коралловый пунктир — гипотеза.",
+        "notes": "Перенесено из презентации. Формулировки и даты относятся к моменту подготовки источника.",
+        "richNotes": "<h2>пруфы.pptx</h2><p>Редактируемая карта аргументации по презентации. Читайте сверху вниз. Нажмите на узел или связь, чтобы открыть материалы. Бирюзовый — группа магазинов; фиолетовый — основания сравнения; коралловый пунктир — гипотеза.</p><p><a href=\"/proofs-source/source.pptx\">Исходная презентация</a></p><p>В редакторе карточки и связи можно перемещать, растягивать и редактировать. Зрительская версия доступна только для чтения. Группа CDSHOP установлена в материалах. Отдельно проверяется связь VSTSHOP с этой группой и предположение о фиктивности сделки.</p><h2>Текст источника</h2>",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [
+          {
+            "id": "pptx",
+            "type": "url",
+            "title": "Скачать исходную презентацию",
+            "value": "/proofs-source/source.pptx"
+          }
+        ],
+        "accentColor": "#8592a0",
+        "cardCaption": "Сверху вниз: аккаунты → основания\nНажмите на карточку для деталей"
+      }
+    },
+    {
+      "id": "junction-chapter-one",
+      "type": "entity",
+      "position": {
+        "x": 416,
+        "y": 285
+      },
+      "style": {
+        "width": 18,
+        "height": 18
+      },
+      "selectable": false,
+      "data": {
+        "title": "",
+        "entityType": "__junction__",
+        "shortDescription": "",
+        "notes": "",
+        "richNotes": "<p></p>",
+        "tags": [],
+        "evidence": [],
+        "isJunction": true,
+        "relationshipGroupId": "chapter-one"
+      }
+    },
+    {
+      "id": "junction-comparison",
+      "type": "entity",
+      "position": {
+        "x": 716,
+        "y": 680
+      },
+      "style": {
+        "width": 18,
+        "height": 18
+      },
+      "selectable": false,
+      "data": {
+        "title": "",
+        "entityType": "__junction__",
+        "shortDescription": "",
+        "notes": "",
+        "richNotes": "<p></p>",
+        "tags": [],
+        "evidence": [],
+        "isJunction": true,
+        "relationshipGroupId": "comparison"
+      }
+    },
+    {
+      "id": "junction-inference",
+      "type": "entity",
+      "position": {
+        "x": 716,
+        "y": 1155
+      },
+      "style": {
+        "width": 18,
+        "height": 18
+      },
+      "selectable": false,
+      "data": {
+        "title": "",
+        "entityType": "__junction__",
+        "shortDescription": "",
+        "notes": "",
+        "richNotes": "<p></p>",
+        "tags": [],
+        "evidence": [],
+        "isJunction": true,
+        "relationshipGroupId": "inference"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "chapter-one-in-0",
+      "source": "cdshop-playerok",
+      "target": "junction-chapter-one",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Одна группа · установлено",
+        "direction": "none",
+        "shortDescription": "Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.</p>",
+        "confidence": "confirmed",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#65c3ba",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "solid",
+        "groupId": "chapter-one",
+        "groupSources": [
+          "cdshop-playerok",
+          "cdshop-avito",
+          "cdshop-ggsel",
+          "cdshop-plati"
+        ],
+        "groupTargets": [
+          "cdshop-group"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "chapter-one-in-1",
+      "source": "cdshop-avito",
+      "target": "junction-chapter-one",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Одна группа · установлено",
+        "direction": "none",
+        "shortDescription": "Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.</p>",
+        "confidence": "confirmed",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#65c3ba",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "solid",
+        "groupId": "chapter-one",
+        "groupSources": [
+          "cdshop-playerok",
+          "cdshop-avito",
+          "cdshop-ggsel",
+          "cdshop-plati"
+        ],
+        "groupTargets": [
+          "cdshop-group"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "chapter-one-in-2",
+      "source": "cdshop-ggsel",
+      "target": "junction-chapter-one",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Одна группа · установлено",
+        "direction": "none",
+        "shortDescription": "Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.</p>",
+        "confidence": "confirmed",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#65c3ba",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "solid",
+        "groupId": "chapter-one",
+        "groupSources": [
+          "cdshop-playerok",
+          "cdshop-avito",
+          "cdshop-ggsel",
+          "cdshop-plati"
+        ],
+        "groupTargets": [
+          "cdshop-group"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "chapter-one-in-3",
+      "source": "cdshop-plati",
+      "target": "junction-chapter-one",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Одна группа · установлено",
+        "direction": "none",
+        "shortDescription": "Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.</p>",
+        "confidence": "confirmed",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#65c3ba",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "solid",
+        "groupId": "chapter-one",
+        "groupSources": [
+          "cdshop-playerok",
+          "cdshop-avito",
+          "cdshop-ggsel",
+          "cdshop-plati"
+        ],
+        "groupTargets": [
+          "cdshop-group"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "chapter-one-out-0",
+      "source": "junction-chapter-one",
+      "target": "cdshop-group",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Одна группа · установлено",
+        "direction": "forward",
+        "shortDescription": "Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Четыре магазина группы CDSHOP (слайды 2–5). CDSHOPVST ↔ Авито: аватар и Splice. GGSel ↔ Plati: seller ID 1345625. Между площадками сопоставлен логотип.</p>",
+        "confidence": "confirmed",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#65c3ba",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "solid",
+        "groupId": "chapter-one",
+        "groupSources": [
+          "cdshop-playerok",
+          "cdshop-avito",
+          "cdshop-ggsel",
+          "cdshop-plati"
+        ],
+        "groupTargets": [
+          "cdshop-group"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": true
+      }
+    },
+    {
+      "id": "comparison-in-0",
+      "source": "cdshop-group",
+      "target": "junction-comparison",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "none",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "comparison-in-1",
+      "source": "vstshop-playerok",
+      "target": "junction-comparison",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "none",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "comparison-out-0",
+      "source": "junction-comparison",
+      "target": "proof-review",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "forward",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": true
+      }
+    },
+    {
+      "id": "comparison-out-1",
+      "source": "junction-comparison",
+      "target": "proof-assortment",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "forward",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "comparison-out-2",
+      "source": "junction-comparison",
+      "target": "proof-copy",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "forward",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "comparison-out-3",
+      "source": "junction-comparison",
+      "target": "proof-names",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "forward",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "comparison-out-4",
+      "source": "junction-comparison",
+      "target": "proof-timing",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Глава 2 · сравнение",
+        "direction": "forward",
+        "shortDescription": "Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Сопоставление VSTSHOP с группой CDSHOP. Пять самостоятельных оснований подробно раскрыты в целевых карточках (слайды 7–12).</p>",
+        "confidence": "circumstantial",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#b6a0dc",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "comparison",
+        "groupSources": [
+          "cdshop-group",
+          "vstshop-playerok"
+        ],
+        "groupTargets": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-in-0",
+      "source": "proof-review",
+      "target": "junction-inference",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "none",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-in-1",
+      "source": "proof-assortment",
+      "target": "junction-inference",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "none",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-in-2",
+      "source": "proof-copy",
+      "target": "junction-inference",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "none",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-in-3",
+      "source": "proof-names",
+      "target": "junction-inference",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "none",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-in-4",
+      "source": "proof-timing",
+      "target": "junction-inference",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "none",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "incoming",
+        "showGroupLabel": false
+      }
+    },
+    {
+      "id": "inference-out-0",
+      "source": "junction-inference",
+      "target": "common-owner",
+      "type": "relationship",
+      "sourceHandle": "bottom",
+      "targetHandle": "top",
+      "data": {
+        "label": "Вывод автора",
+        "direction": "forward",
+        "shortDescription": "Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Пять наблюдений приводят автора к гипотезе об общем владельце (слайды 13–14). Совпадения не заменяют прямую идентификацию владельца.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed",
+        "groupId": "inference",
+        "groupSources": [
+          "proof-review",
+          "proof-assortment",
+          "proof-copy",
+          "proof-names",
+          "proof-timing"
+        ],
+        "groupTargets": [
+          "common-owner"
+        ],
+        "segmentRole": "outgoing",
+        "showGroupLabel": true
+      }
+    },
+    {
+      "id": "rules-context",
+      "source": "common-owner",
+      "target": "rules",
+      "type": "relationship",
+      "sourceHandle": null,
+      "targetHandle": null,
+      "data": {
+        "label": "Оценка автора",
+        "direction": "forward",
+        "shortDescription": "Автор относит предполагаемые действия к нарушениям правил (слайд 15). Это приложение к гипотезе, а не установленное нарушение.",
+        "notes": "Стрелка показывает ход аргументации, а не денежный перевод или юридическую принадлежность.",
+        "richNotes": "<p>Автор относит предполагаемые действия к нарушениям правил (слайд 15). Это приложение к гипотезе, а не установленное нарушение.</p>",
+        "confidence": "hypothesis",
+        "tags": [
+          "пруфы.pptx"
+        ],
+        "evidence": [],
+        "color": "#e98b79",
+        "thickness": 2.5,
+        "opacity": 0.85,
+        "routeType": "curved",
+        "lineStyle": "dashed"
+      }
+    }
+  ],
+  "viewport": {
+    "x": 30,
+    "y": 30,
+    "zoom": 0.5
+  }
+}
